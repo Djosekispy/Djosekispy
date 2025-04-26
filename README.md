@@ -61,8 +61,6 @@ class SobreMim:
   ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Djosekispy&theme=redical&hide_border=true)
 
 </div>
----
-
 
 ## 💼 **Experiência Profissional**
 
@@ -107,7 +105,7 @@ Instituto Superior Politécnico Independente, Lubango
   [![Visite Meu Portfolio](https://img.shields.io/badge/-Visite%20Meu%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://osvaldodev.vercel.app)
 
 </div>
----
+
 
 ## 📝 **Blog Recente**  
 
