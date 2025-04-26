@@ -62,18 +62,18 @@ class SobreMim:
 
 </div>
 
-## 💼 **Experiência Profissional**
+## 💼 **Trabalhos Recentes**
 
-### **Freelancer Fullstack** (2019–Presente)
+### **Make More Tics**
 - Desenvolvimento de APIs RESTful escaláveis com Node.js
 - Criação de aplicações mobile com React Native + Expo
 - Implementação de microsserviços e arquiteturas cloud
 
-### **Angovitech** (2022–2025)
+### **Angovitech** 
 - Manutenção e integração de sistemas
 - Otimização de performance de bancos de dados
 
-### **Projecto Landaki** (2023–2024)
+### **Projecto Landaki**
 - Desenvolvimento backend para plataforma de e-commerce
 - Implementação de sistemas de pagamento
 
