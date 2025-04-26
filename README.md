@@ -1,10 +1,24 @@
 # 💫 **Olá, eu sou Osvaldo José Victor (Djosekispy)** 🚀  
 **Desenvolvedor Full Stack | Especialista em Soluções Web & Mobile**  
 *Transformando linhas de código em experiências incríveis.*  
-
 ---
+## 🚀 **Sobre Mim**  
+💻 **Desenvolvedor Full Stack** com paixão por criar soluções inovadoras e escaláveis.  
+🎨 **Designer de Experiência do Usuário (UX/UI)** nas horas vagas.  
+📚 **Aprendizado Contínuo** – sempre explorando novas tecnologias e frameworks.  
+🌍 **Foco em Impacto** – acredito que a tecnologia pode melhorar vidas.  
 
-## 📌 **Sobre Mim**  
+<div align="center">
+  
+  ![Banner Profile](https://github.com/Djosekispy/Djosekispy/blob/main/assets/banner-tech.png)
+  
+  [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/244927023710)
+  [![Email](https://img.shields.io/badge/-victordev8080@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:victordev8080@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://osvaldodev.vercel.app)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/osvaldovictor)
+
+</div>
+ 
 
 ```python
 class SobreMim:
@@ -17,6 +31,27 @@ class SobreMim:
 
 ---
 
+## 🛠 **Stack Técnica Principal**
+
+### **Backend & DevOps**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### **Frontend & Mobile**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Banco de Dados**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+
 <div align="center">
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Djosekispy&show_icons=true&theme=radical&count_private=true)
@@ -26,61 +61,52 @@ class SobreMim:
   ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Djosekispy&theme=redical&hide_border=true)
 
 </div>
+---
 
+
+## 💼 **Experiência Profissional**
+
+### **Freelancer Fullstack** (2019–Presente)
+- Desenvolvimento de APIs RESTful escaláveis com Node.js
+- Criação de aplicações mobile com React Native + Expo
+- Implementação de microsserviços e arquiteturas cloud
+
+### **Angovitech** (2022–2025)
+- Manutenção e integração de sistemas
+- Otimização de performance de bancos de dados
+
+### **Projecto Landaki** (2023–2024)
+- Desenvolvimento backend para plataforma de e-commerce
+- Implementação de sistemas de pagamento
 
 ---
 
-## 📊 **GitHub Analytics**  
-
-<div align="center">
-  
-  ![Estatísticas](https://github-readme-stats.vercel.app/api?username=Djosekispy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Djosekispy&layout=compact&theme=radical&hide_border=true)
-  
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Djosekispy&theme=radical&hide_border=true)
-
-</div>
-
+## 🎓 **Educação**
+**Licenciatura em Engenharia Informática**  
+Instituto Superior Politécnico Independente, Lubango
 ---
+## 📌 **Projetos em Destaque**
 
-## 🎯 **Serviços Profissionais**  
-
-### **Desenvolvimento Web**  
-▸ Aplicações React/Next.js de alto desempenho  
-▸ Landing pages conversíveis  
-▸ Sistemas administrativos completos  
-
-### **Soluções Mobile**  
-▸ Aplicativos multiplataforma com Flutter  
-▸ Integração com APIs REST/GraphQL  
-▸ Publicação nas lojas (Play Store/App Store)  
-
-### **Consultoria Tech**  
-▸ Arquitetura de sistemas escaláveis  
-▸ Migração para cloud (AWS/Firebase)  
-▸ Otimização de performance  
-
----
-
----
+| Projeto | Tecnologias | Descrição |
+|---------|------------|-----------|
+| [Make More Tics](https://mmtics.ao/) | Node.js, React | Plataforma de gestão financeira |
+| [Landaki](https://vendas.landaki.ao/) | Next.js, Firebase | E-commerce completo |
+| [Globo F](https://globo-f.blogspot.com) | React Native | App de gestão de mídia |
 
 ## 📈 **Contribuições Open Source**  
 
 | Projeto | Tipo | Minha Contribuição |
 |---------|------|--------------------|
-| [Angola API](#) | Nova funcionalidade | Adicionei validação de NIF |
+| [Angola API](https://github.com/Djosekispy/Angola-Api) | Nova funcionalidade | Adicionei validação de NIF |
 
 ---
+<div align="center">
+  
+  ![QR Code Portfolio](https://github.com/Djosekispy/Djosekispy/blob/main/assets/qr-portfolio.png)
+  
+  [![Visite Meu Portfolio](https://img.shields.io/badge/-Visite%20Meu%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://osvaldodev.vercel.app)
 
----
-
-## 🌍 **Onde Me Encontrar**  
-
-[![LinkedIn](https://img.shields.io/badge/-Djosekispy-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/osvaldodev)
-[![Discord](https://img.shields.io/badge/-Djosekispy-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/osvaldovictor)
-[![Email](https://img.shields.io/badge/-contato@djosekispy.dev-D14836?style=flat&logo=gmail&logoColor=white)](mailto:victordev8080@gmail.com)
-
+</div>
 ---
 
 ## 📝 **Blog Recente**  
@@ -112,14 +138,16 @@ const myDevPrinciples = {
 
 ---
 
-<div align="center">
-  
-  ![Snake Animation](https://github.com/Djosekispy/Djosekispy/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 > *"O código é arte. Escreva com paixão, otimize com ciência."* - Djosekispy  
 
 ⭐ **Obrigado pela visita!** Vamos construir algo incrível juntos?
+
+
+
+
+
+
+
+
+
+
