@@ -1,4 +1,4 @@
-# 💫 **Olá, eu sou Osvaldo José Victor (Djosekispy)** 🚀  
+# 💫 **Olá, eu sou Osvaldo José Victor** 🚀  
 **Desenvolvedor Full Stack | Especialista em Soluções Web & Mobile**  
 *Transformando linhas de código em experiências incríveis.*  
 ---
