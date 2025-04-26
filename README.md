@@ -10,7 +10,7 @@
 
 <div align="center">
   
-  ![Banner Profile](https://github.com/Djosekispy/Djosekispy/blob/main/assets/banner-tech.png)
+  ![Banner Profile](https://github.com/Djosekispy/Djosekispy/blob/main/assets/banner-tech.PNG)
   
   [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/244927023710)
   [![Email](https://img.shields.io/badge/-victordev8080@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:victordev8080@gmail.com)
