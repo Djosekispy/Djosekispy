@@ -22,9 +22,9 @@
 
 ```python
 class SobreMim:
-    nome = "José Victor (Djosekispy)"
+    nome = "Osvaldo José Victor"
     profissao = "Desenvolvedor Full Stack"
-    stack = ["React", "Node.js", "Flutter", "AWS"]
+    stack = ["React", "Node.js", "React Native", "AWS","Laravel"]
     hobbies = ["Café ☕", "Jogos 🎮", "Open Source 🌍"]
     meta = "Construir soluções que impactam milhões"
 ```
@@ -88,8 +88,8 @@ Instituto Superior Politécnico Independente, Lubango
 | Projeto | Tecnologias | Descrição |
 |---------|------------|-----------|
 | [Make More Tics](https://mmtics.ao/) | Node.js, React | Plataforma de gestão financeira |
-| [Landaki](https://vendas.landaki.ao/) | Next.js, Firebase | E-commerce completo |
-| [Globo F](https://globo-f.blogspot.com) | React Native | App de gestão de mídia |
+| [Landaki](https://vendas.landaki.ao/) | Next.js, node.js, appypay, Firebase | E-commerce completo |
+| [Globo F](https://globo-f.blogspot.com) | PHP | App de gestão de mídia |
 
 ## 📈 **Contribuições Open Source**  
 
@@ -125,6 +125,7 @@ const myDevPrinciples = {
   2: "UX é tão importante quanto funcionalidade",
   3: "Documentação salva vidas",
   4: "Testes são não negociáveis"
+  5: "Performance não pode ficar esquecida"
 }
 ```
 
