@@ -1,15 +1,27 @@
 name: Update README
+
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    - cron: '30 5,17 * * *'  
+  workflow_dispatch:      
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write 
     steps:
       - uses: actions/checkout@v2
-      - uses: Djosekispy/github-readme-stats-action@latest
+
+      - name: Atualizar README
+        uses: Djosekispy/github-readme-stats-action@latest
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - run: git commit -am "📚 Atualização automática do README"
+
+      - name: Commit e push das alterações
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "📚 Atualização automática do README"
+          git push
