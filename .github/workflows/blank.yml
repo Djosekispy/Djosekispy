@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v3
+      - uses: Djosekispy/github-readme-stats-action@v1.0.0
 
       # Exemplo: Executar script que atualiza README.md
       - name: Atualizar README via script
