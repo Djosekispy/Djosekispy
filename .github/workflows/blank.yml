@@ -3,20 +3,21 @@ name: Update README
 on:
   schedule:
     - cron: '30 5,17 * * *'  
-  workflow_dispatch:      
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
-      contents: write 
+      contents: write
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
-      - name: Atualizar README
-        uses: Djosekispy/github-readme-stats-action@latest
-        with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Exemplo: Executar script que atualiza README.md
+      - name: Atualizar README via script
+        run: |
+          echo "Atualizando README..."
+          # seu comando ou script aqui, ex: python update_readme.py
 
       - name: Commit e push das alterações
         run: |
