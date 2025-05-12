@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '30 5,17 * * *'  
+    - cron: '30 5,17 * * *'
   workflow_dispatch:
 
 jobs:
@@ -11,21 +11,16 @@ jobs:
     permissions:
       contents: write
     steps:
-      # Check out the repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Use the GitHub Readme Stats Action
-      - name: Update README using custom action
-        uses: Djosekispy/github-readme-stats-action@v1.0.0
-
-      # Example: Update README via script
       - name: Update README via script
         run: |
-          echo "Updating README..."
-          # Replace this with your script, e.g., python update_readme.py
+          set -e
+          echo "Atualizando README..."
+          # Exemplo de modificação
+          date >> README.md
 
-      # Commit and push the changes
       - name: Commit and push changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
