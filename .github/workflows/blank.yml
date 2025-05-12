@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '30 5,17 * * *'
+    - cron: '30 5,17 * * *'  # Executa às 5:30 e 17:30 UTC todos os dias
   workflow_dispatch:
 
 jobs:
@@ -10,17 +10,21 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
+      # Checkout do repositório
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # Atualização do README via script
       - name: Update README via script
         run: |
           set -e
           echo "Atualizando README..."
-          # Exemplo de modificação
-          date >> README.md
+          echo "" >> README.md
+          echo "📅 Última atualização automática: $(date -u)" >> README.md
 
+      # Commit e push das alterações
       - name: Commit and push changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
